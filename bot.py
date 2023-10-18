@@ -37,4 +37,4 @@ async def check(ctx):
 
     else:
         await ctx.send('1')
-bot.run("MTE2MjMwMjg1NTg5NDU0MDM4OQ.GRq9TN.TpTLjR8JQHWRS8lzLLd6GpclRPkkAKCC0vcOmQ")
+bot.run("token")
